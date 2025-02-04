@@ -45,5 +45,9 @@
 </div>
 
 ###
-## 🔥 My GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vipulsc&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vipulsc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
