@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Exploring open-source contributions with a focus on React<br>Completed the project CosmicX using React<br>Check it out at cosmicx.space</p>
+<p align="left">Exploring open-source contributions with a focus on React<br>Completed the project CosmicX using React<br>Check it out at <link>cosmicx.space</link></p>
 
 ###
 
