@@ -40,13 +40,10 @@
   </p>
 </div>
 
-<hr style="width: 60%; margin: 8px auto; border: none; border-top: 1px solid #8b9dc3; opacity: 0.3;" />
+---
 
 <div align="center">
-   <p style="color:#ff6b35;">
-    ありがとうございます • Thank You
-  </p>
-  <p style="color:#ff6b35;">
-    さようなら • Sayonara
-  </p>
+
+ありがとうございます • Thank You  
+さようなら • Sayonara
 </div>
