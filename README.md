@@ -35,15 +35,16 @@
 <br/>
 
 <div align="center">
-  <p style="color:#ff6b35; font-size: 18px; font-weight: bold;">
-    ありがとうございます • Thank You
+  <p style="color:#8b9dc3; font-size: 12px; opacity: 0.7;">
+    vipulsingh.1404@gmail.com
   </p>
+ 
 </div>
 
 <hr style="width: 60%; margin: 8px auto; border: none; border-top: 1px solid #8b9dc3; opacity: 0.3;" />
 
 <div align="center">
-  <p style="color:#8b9dc3; font-size: 14px; opacity: 0.7;">
-    vipulsingh.1404@gmail.com
+   <p style="color:#ff6b35; font-size: 18px; font-weight: bold;">
+    ありがとうございます • Thank You
   </p>
 </div>
