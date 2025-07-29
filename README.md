@@ -15,7 +15,6 @@
 </p>
 
 </div>
-
 <br/>
 
 <div align="center">
@@ -39,11 +38,20 @@
     vipulsingh.1404@gmail.com
   </p>
 </div>
+<br/>
 
 ---
-
 <div align="center">
 
 ありがとうございます • Thank You  
 さようなら • Sayonara
 </div>
+
+---
+<br/>
+<div align="center">
+  <img src="https://count.getloli.com/get/@vipulsc?theme=rule34" alt="Visitor Count" style="vertical-align: middle;"/>
+   <h3 style="display: inline-block; margin: 0; padding-right: 10px;">Visitor count</h3>
+</div>
+
+
